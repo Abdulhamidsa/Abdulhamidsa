@@ -1,6 +1,1 @@
-
-
-<!---
-Abdulhamidsa/Abdulhamidsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer with a focus on scalability, performance, and clean architecture. I build maintainable, high-performance applications by balancing technical precision and business impact. Always optimizing, always improving.
