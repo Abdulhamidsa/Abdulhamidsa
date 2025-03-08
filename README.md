@@ -1,1 +1,1 @@
-Full-stack developer with a focus on scalability, performance, and clean architecture. I build maintainable, high-performance applications by balancing technical precision and business impact. Always optimizing, always improving.
+
